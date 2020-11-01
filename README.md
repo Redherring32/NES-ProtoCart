@@ -12,11 +12,11 @@ A quick and dirty PCB for prototyping NES cartridge hardware on
 
 * And any color you want!
 
-![Board Front](https://i.imgur.com/NHmWob2.png)
-
 ## NOTE:
 Due to board length this will NOT fit in a front loading NES unless you are using a replacement connector like the Blinking Light Win, I will be doing a more compact version with less working area that will fit, but this one will not.
 This project does not require any parts, simply upload the Gerbers.zip file in the releases section to your preferred board house website and order PCBs with the recommended specs.
+
+![Board Front](https://i.imgur.com/NHmWob2.png)
 
 ## License:
 
