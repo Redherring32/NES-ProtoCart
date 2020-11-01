@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Motherboard)(type Legacy)(uri "C:/Users/Redherring32/Desktop/OpenTendo.git/trunk/Board Files/Motherboard.lib")(options "")(descr ""))
+  (lib (name Cart-Devboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Cart-Devboard-rescue.lib)(options "")(descr ""))
+)
